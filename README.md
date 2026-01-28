@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, but have to stick to industry software to owe money ;-)
 - 🌱 I’m currently learning the how to get best use of AI (GPT) for PLSQL development
 - 💞️ I’m looking to collaborate on GPT for PLSQL development.
-- 📫 How to reach me andreas.scheuchenpflug@tietoevry.com
+- 📫 How to reach me andreas.scheuchenpflug@tieto.com
 
 <!---
 scheuand/scheuand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
